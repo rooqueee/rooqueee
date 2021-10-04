@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rooqueee
+- 👀 I’m interested in keep learning programming
+- 🌱 I’m currently learning HTML and JS
